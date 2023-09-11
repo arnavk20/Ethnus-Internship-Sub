@@ -1,0 +1,25 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+<body>
+    <br><br><br>
+    <table border="1" align="center" bgcolor="grey" cellspacing="0"  height="100" width="700">
+        <tr>
+            <td>
+            <b> Click any of the following Links:</b>
+                <br><br>
+                <a href="#" target="_blank"> Opens in New</a> |
+                <a href="#" >Opens in Self</a> |
+                <a href="#" target="_parent">Opens in parent</a> | 
+                <a href="#" target="_top">Opens in body</a> | 
+                <a href="mailto:#">Send mail</a>
+            </td>
+        </tr>
+    </table>
+    <br><br><br>
+</body>
+</html>
